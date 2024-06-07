@@ -1,0 +1,33 @@
+h1 {
+    color: #6b0103;
+    font-size: 65px;
+    text-align: center;
+}
+
+button {
+    font-size: 70px;
+    background-color: antiquewhite;
+    border-color: black;
+    border-radius: 10%;
+
+}
+
+h4 {
+    color: gray;
+    font-size: 55px;
+    text-align: center
+}
+
+
+img {
+
+    height: 700px;
+
+}
+
+iframe {
+
+
+height: 700px;
+width: 1000px;
+}
